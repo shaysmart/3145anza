@@ -1,0 +1,20 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = 3145 Anza Street
+
+## Media
+
+### Title
+panorama_7A0284CF_70A0_E447_41D3_537624C87197.label = Living Room
+panorama_7A3CCDA3_70A0_A4FF_41D1_53B68300EF96.label = 1st Bedroom
+panorama_7A3CD953_70A0_AC5F_41CC_0D5745307ABA.label = Laundry and Storage
+panorama_7A3CF359_70A0_BC4B_41B6_1A368285D453.label = Landing
+panorama_7A3D07AB_70A1_64CF_41A4_DAB7BABD5E16.label = Bathroom
+panorama_7A3D31A0_70A1_7CF9_41A9_F498B000BA69.label = Street View
+panorama_7A3F0F09_70A0_E5CB_4181_7C3F4ED2871E.label = Kitchen
+panorama_7C872B11_70A0_EDDB_41B8_6600BB925015.label = 2nd Bedroom
